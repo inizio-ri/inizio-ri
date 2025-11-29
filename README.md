@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richa Dubey</h1>
 
 <h3 align="center">
-  🚀 MCA Student | Web Developer | MERN & Python Enthusiast
+  Full Stack Developer
 </h3>
 
 <p align="center">
