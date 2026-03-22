@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Richa Dubey</h1>
+<h1 align="center">Hi, I'm Richa Dubey</h1>
 
 <h3 align="center">
-  Full Stack Developer
+  Full Stack Developer | MERN Stack | SaaS & Scalable Systems
 </h3>
 
 <p align="center">
@@ -18,11 +18,13 @@
 ### 📘 About Me
 
 <p align="justify">
-I'm an MCA student at Savitri Phule Pune University with a strong foundation in full-stack development 
-(MERN) and Python applications. Currently working remotely as an Assistant Web Developer at Oved Technologies, 
-leading real estate web projects for clients in Australia. Passionate about building scalable solutions, 
-optimizing user experience, and continuously learning new tech. Always open to exciting opportunities 
-and collaborations!
+I’m a Full Stack Developer currently working at RevAppayya IT Services, contributing to a live SaaS product with end-to-end ownership across frontend and backend.
+
+I specialize in building scalable REST APIs using Node.js and Express, developing responsive interfaces with React, and optimizing databases like MongoDB and MySQL for performance and efficiency. I’ve worked on real-world platforms across domains like restaurant management and real estate, focusing on clean architecture, scalability, and user experience.
+
+I also have experience in automation testing using Selenium and TestNG, which helps me build reliable and production-ready systems.
+
+Always learning, always building 🚀
 </p>
 
 ---
@@ -31,55 +33,54 @@ and collaborations!
 
 | Category             | Technologies |
 |----------------------|--------------|
-| **Languages**         | Java, Python, C, C++, JavaScript, SQL, HTML, CSS |
-| **Frontend**          | React.js |
+| **Languages**         | JavaScript, TypeScript, SQL, PHP, HTML5, CSS3 |
+| **Frontend**          | React.js, React Native |
 | **Backend**           | Node.js, Express.js |
 | **Database**          | MongoDB, MySQL |
-| **Mobile**            | Android Development (Java/Kotlin) |
-| **BI & Tools**        | Power BI |
-| **Version Control**   | Git, GitHub |
-| **Concepts**          | DSA, DBMS, REST APIs |
+| **Tools**             | Git, GitHub, Postman, VS Code, Android Studio |
+| **Concepts**          | OOPS, DBMS, DSA, REST API Design |
 
 ---
 
 ### 💼 Projects
 
-#### 🔹 LMS (Learning Management System) | MERN Stack
-- Developed a full-stack LMS to manage courses, student enrollments, and content delivery.
-- Built a responsive UI with **React.js** and React Hooks for dynamic rendering.
-- Implemented secure authentication, REST APIs with **Node.js**, and integrated **MongoDB** for robust data handling.
+#### 🔹 RITS Restaurant Suite (Live SaaS) | MERN Stack
+- Developed production-grade REST APIs for billing, order processing, and role-based access systems  
+- Built interactive dashboards and business workflow modules using React  
+- Designed scalable database architecture and optimized query performance  
 
-#### 🔹 GameZone | Python
-- Created an interactive gaming interface using **Pygame** and **Tkinter** for GUI components.
-- Managed user data, game records, and login authentication with **MySQL** integration.
+#### 🔹 Aeon Realty Platform | Full Stack Web Development
+- Built high-performance property listing and search systems  
+- Integrated backend APIs with responsive UI components  
+- Improved SEO structure and page performance for better lead generation  
+
+#### 🔹 Learning Management System (LMS) | MERN Stack
+- Developed a full-stack LMS with authentication and role-based access  
+- Built secure REST APIs using JWT authentication  
+- Designed dynamic UI using React Hooks  
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-- 📜 Professional Certificate of Ethical Hacking Essentials – EC-Council
-- 📱 Meta Android Developer – Professional Certificate
-- 🐍 Python Programming – IIT Bombay (Spoken Tutorial)
-- 🎖 IT President during undergrad
-- 🥉 Ranked **3rd** academically during MCA
-- 🏅 Student of the Year award for academics & extracurriculars
-- ⚙️ Completed **3 months training in Automation Testing (Selenium)**
+- 📜 Ethical Hacking Essentials – EC-Council  
+- 📱 Meta Android Developer – Professional Certificate  
+- 🐍 Python Programming – IIT Bombay  
+- 🥉 Secured **3rd Rank** in MCA  
+- 🏅 Student of the Year (Academics & Extracurriculars)  
+- 🎖 Former IT President (Undergraduate)  
 
 ---
 
 ### 🎓 Education
 
-- **Masters of Computer Applications (MCA)**  
-  Savitri Phule Pune University, Pune, India | CGPA: **8.48**  
+- **Master of Computer Applications (MCA)**  
+  Savitri Phule Pune University | CGPA: **8.48**  
   *2023 – 2025*
 
-- **Bachelors of Computer Applications (BCA)**  
-  University of Rajasthan, Jaipur, India | **72%**  
+- **Bachelor of Computer Applications (BCA)**  
+  University of Rajasthan | **72%**  
   *2019 – 2022*
-
-- **Schooling:**  
-  - Intermediate (CBSE), Etah (U.P) | **62.8%**
-  - Matriculation (CBSE), Etah (U.P) | **83.8%**
 
 ---
 
@@ -87,16 +88,16 @@ and collaborations!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/richadubey26/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="mailto:dubeyyricha@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="30" width="40" />
   </a>
   <a href="https://github.com/inizio-ri" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-> 🚀 *"Striving to turn ideas into impactful products through code & creativity!"*
+> 🚀 *Building scalable systems, one clean API at a time.*
