@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Richa Dubey</h1>
 
 <h3 align="center">
-  Full Stack Developer | MERN Stack | SaaS & Scalable Systems
+  Full Stack Developer | MERN Stack
 </h3>
 
 <p align="center">
@@ -22,9 +22,7 @@ I’m a Full Stack Developer currently working at RevAppayya IT Services, contri
 
 I specialize in building scalable REST APIs using Node.js and Express, developing responsive interfaces with React, and optimizing databases like MongoDB and MySQL for performance and efficiency. I’ve worked on real-world platforms across domains like restaurant management and real estate, focusing on clean architecture, scalability, and user experience.
 
-I also have experience in automation testing using Selenium and TestNG, which helps me build reliable and production-ready systems.
-
-Always learning, always building 🚀
+Always learning, always building.
 </p>
 
 ---
@@ -34,7 +32,7 @@ Always learning, always building 🚀
 | Category             | Technologies |
 |----------------------|--------------|
 | **Languages**         | JavaScript, TypeScript, SQL, PHP, HTML5, CSS3 |
-| **Frontend**          | React.js, React Native |
+| **Frontend**          | React.js, React Native, Next.js |
 | **Backend**           | Node.js, Express.js |
 | **Database**          | MongoDB, MySQL |
 | **Tools**             | Git, GitHub, Postman, VS Code, Android Studio |
